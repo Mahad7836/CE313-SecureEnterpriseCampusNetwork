@@ -5,7 +5,7 @@
 > **Semester:** Spring 2026 | GIK Institute of Engineering Sciences and Technology  
 
 **Group Members**
-| Name | Roll No. |
+| Name | Reg No. |
 |------|----------|
 | Rubab Ali | 2023614 |
 | M. Afeef Bari | 2023356 |
